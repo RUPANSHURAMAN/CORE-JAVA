@@ -1,7 +1,8 @@
 package classcasting;
 /* *class cast
- * 1. Upcaasting: Here child object memory addr is stored in parent class ref var //in upcasting only parent class members are accessable and not child class members e.g. given below
- * 2. Downcasting: 
+ * 1. Upcaasting: Here child object memory addr is stored in parent class ref var //in upcasting only parent class members are accessable bith static and non static and not child class members e.g. given below
+ * 2. Downcasting: Instead of making the child object ref to be stored in parent class by mandat using downcasting operator (not compile-time error)
+ * 					1. storing mem addr of parent class into child class ref var is called as downcasting. e.g. at classcastingdown1
  */
 public class B extends A{
 	int j =20;
