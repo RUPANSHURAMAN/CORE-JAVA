@@ -1,7 +1,7 @@
 package constructors;
 public class H {
 H(){
-	H h1 = new H(100);//2 
+	H h1 = new H(100);//2 //No ERROR as in seperate constructor object created
 	System.out.println("H");//3
 }
 

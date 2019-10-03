@@ -3,8 +3,8 @@ package NumberFormat;
 public class O {
 
 	public static void main(String[] args) {
-		A[] o = new A[3];
-		for(A b:o) {
+		O[] o = new O[3];
+		for(O b:o) {
 			System.out.println(b);
 		}
 	}

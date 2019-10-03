@@ -1,11 +1,11 @@
-//overrring static methods it's not possible
-public class B1 extends A1{
+//overriding static methods it's not possible as not inherited at first place
+public class B1 extends A1 {
 
 	@Override
 	public void test1() {
 		System.out.println("test1");
 	}
-	
+
 	public static void main(String[] args) {
 		B1 b1 = new B1();
 		b1.test1();

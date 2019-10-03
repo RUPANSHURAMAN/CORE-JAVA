@@ -1,6 +1,6 @@
 package classes;
 public class A {
-	int i = 10;// non-static variable  
+	int i = 10;// non-static variable  [[[non-static member=object member=instance var]]]
 				// 1) non-static reference var declared outside methods but inside class
 				// 2) it's not mandatory to initialize non-static variable, if we
 				// 			do not initialize it is assigned by compiler a default value
@@ -32,7 +32,6 @@ public class A {
 					// method
 		// local var can be accesed w/o reference 
 		// local var should be initialized before use
-		// local var garbage value
 		// and should be used within the created
 		System.out.println("No output");
 		}

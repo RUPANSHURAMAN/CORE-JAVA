@@ -11,10 +11,11 @@ public class B {
 	public static void main(String[] args) {
 		try {
 			FileReader fr = new FileReader("/home/rupanshu/createFile.txt");
-			BufferedReader br = new BufferedReader(fr); //File arg doesn't work with BR as only works for FR, FW
-			
-			System.out.println(br.readLine()); //fast as uses BUFFer MEMory and no need to convert from bytes to char as whole line read once
-		}catch(Exception e) {
+			BufferedReader br = new BufferedReader(fr); // File arg doesn't work with BR as only works for FR, FW
+
+			System.out.println(br.readLine()); // fast as uses BUFFer MEMory and no need to convert from bytes to char
+												// as whole line read once
+		} catch (Exception e) {
 			System.out.println(e);
 		}
 	}

@@ -1,5 +1,6 @@
 package finalkeyword;
-/* String[] args : helps us to supply commmand line args
+/* 
+ * String[] args : helps us to supply commmand line args
  * 
  * Steps to supply command line args:
  * 1. Click on drop-down of run

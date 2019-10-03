@@ -7,8 +7,7 @@ public class Five4 {
 		System.out.println(j);// 10 Output
 
 		long m = 30;
-		// During conversion if there is any loss of data then regardless of mem size we
-		// need to perform explicit downcasting
+		// During conversion if there is any loss of data then regardless of mem size we need to perform explicit downcasting
 		j = (byte) m;
 		System.out.println(j);
 	}

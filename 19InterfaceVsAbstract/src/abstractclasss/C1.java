@@ -21,8 +21,7 @@ public class C1 extends B1{
 //multiple inheritance is supported in interfaces
 
 //abstract class can consists of both complete and incomplete methods 
-//every method by default is not abstract
-//we should use abstract keyword to specify incomplete method
+//every method by default is not abstract, we should use abstract keyword to specify incomplete method
 // var by default is not final 
 //multiple inheritance in abstract classes is not possible
 //inheritance b/w an interface and abstract class is possible

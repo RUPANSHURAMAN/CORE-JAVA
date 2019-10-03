@@ -1,4 +1,5 @@
-
+package designconstructors;
+// MEDIOCRE
 public class G {
 
 	G(){

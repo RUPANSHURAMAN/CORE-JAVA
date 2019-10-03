@@ -1,14 +1,15 @@
+package designconstructors;
 
 public class I {
-//method
+	//METHOD
 	void I() {
-	System.out.println("I");
-	return;
-}
+		System.out.println("I");
+		return;
+	}
 
-public static void main(String[] args) {
-	//start
-	I i = new I();
-	System.out.println("main");
-}
+	public static void main(String[] args) {
+		// start
+		I i = new I();
+		System.out.println("main");
+	}
 }

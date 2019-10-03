@@ -1,5 +1,5 @@
 package finalkeyword;
-//final keyowrd: if you make a VARIABLE as final then we can never reinitialize is not possible 
+//final keyword: if you make a VARIABLE as final then we can never reinitialize is not possible 
 public class A {
 
 	public static void main(String[] args) {

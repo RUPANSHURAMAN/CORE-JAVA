@@ -1,12 +1,14 @@
+package iibsandsibs;
 
 public class G {
-//if you create an object inside IIB you wil not get any error but program will halt abruptly
+
+	//if you create an object inside IIB you will not get any error but program will halt abruptly
 	{
-		new G();
+		new G(); //NO ERROR but RTE
 	}
-	
+
 	public static void main(String[] args) {
-		B b1 = new B();
+		G b1 = new G();
 		System.out.println("From main");
 	}
 }

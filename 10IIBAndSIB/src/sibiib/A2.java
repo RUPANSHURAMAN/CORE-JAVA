@@ -1,3 +1,4 @@
+package sibiib;
 
 public class A2 {
 	{

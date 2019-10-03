@@ -1,4 +1,4 @@
-package userdefinedexception5;
+package userdefinedexception6;
 
 import userdefinedexception2.InsufficientFunds;
 
@@ -8,6 +8,6 @@ public class Bank {
 			//throws InsufficientFunds{ 
 		 
 		try{throw new InsufficientFunds();}catch(Exception e) {}
-		System.out.println("Hello"); //ERROR as it's not going to print as exception has happened before and pgm halts
+		System.out.println("Hello"); //it's not going to print as exception has happened before and pgm halts
 	}
 }

@@ -3,7 +3,7 @@ package FileWriter;
 import java.io.File;
 import java.io.FileWriter;
 
-//FILE WRITER CLASS: it's mandat to close the file exlse content not written
+//FILE WRITER CLASS: it's mandat to close the file else content not written
 public class A {
 
 	public static void main(String[] args) {

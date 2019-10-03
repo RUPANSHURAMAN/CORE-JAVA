@@ -1,3 +1,4 @@
+package superkeyword;
 class java{
 	java(){
 		System.out.println("A");

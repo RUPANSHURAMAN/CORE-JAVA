@@ -14,7 +14,7 @@ public class B {
 		} catch (Exception e) {
 			System.out.println(e);
 		} finally {
-			try {
+			try { //one more try-catch
 				if(fis!=null) {
 				fis.close();
 				System.out.println("File closed.");

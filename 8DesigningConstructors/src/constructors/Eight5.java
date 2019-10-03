@@ -1,6 +1,6 @@
 package constructors;
 
-// we can create multiple constructors in the same class provided they are differentiated based on number of args or type of args
+// we can create multiple constructors in the same class provided they are differentiated based on number of args and/or type of args
 
 public class Eight5 {
 	Eight5() {

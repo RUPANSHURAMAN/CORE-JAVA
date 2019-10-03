@@ -2,8 +2,7 @@ package DataTypes;
 
 class B {
 	static B b; // can be used anywhere the ref as static
-	// static ref var= these ref var are created outside all methods but then
-	// these var can be used anywhere in the class
+	// static ref var = these ref var are created outside all methods but then these var can be used anywhere in the class
 	
 	int i; // DEfault value assigned by compiler
 
@@ -27,7 +26,7 @@ public class Three6 {
 	// local ref var = they are created within a method and should be used only within created method e.g. class Three6
 	
 	public static void main(String[] args) {
-		Three6 t6 = new Three6(); // local var not to be used outside
+		Three6 t6 = new Three6(); // local ref var not to be used outside
 		System.out.println(t6.i);
 		t6.test();
 	}
