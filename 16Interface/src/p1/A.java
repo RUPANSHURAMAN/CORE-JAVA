@@ -10,7 +10,7 @@ package p1;
  * 				remove the access specifier by default it becomes public and hence we do not get any error
  * 6. Every var is psf in interface
  * 7. Static method can't be created
- * 8. 	// 1) we can never create object of interface 
+ * 8. 	// 1) we can never create object of interface, ref can be created
 		// 2) we can never keep main() in an interface
  */
 
