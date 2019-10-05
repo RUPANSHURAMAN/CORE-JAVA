@@ -1,6 +1,6 @@
 package NumberFormat;
 // Arrays helps us to store the data which is of similar kinds
-// Array uses the memory which is continous and hence from memory point of view it is not that efficient e.g.
+// Array uses the memory which is continuous and hence from memory point of view it is not that efficient e.g.
 public class D {
 
 	public static void main(String[] args) {

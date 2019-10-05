@@ -1,5 +1,7 @@
 package classcasting6;
 
+import classcasting2.A;
+
 public class B extends A{
 
 	public void xyz() {

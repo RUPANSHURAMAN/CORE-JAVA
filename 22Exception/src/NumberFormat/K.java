@@ -1,6 +1,7 @@
 package NumberFormat;
-//* If you specify the size of array then ideally it is a static array
-// If you want the memory to dynamically inc or dec then we create static array as shown below: 
+
+//* If you want the memory to dynamically inc or dec then we create dynamic array as e.g.:
+//* If you specify the size of array then ideally it is a Static array 
 public class K {
 
 	public static void main(String[] args) {

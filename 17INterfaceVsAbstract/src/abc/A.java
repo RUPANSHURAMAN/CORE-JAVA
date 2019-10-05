@@ -9,16 +9,15 @@ public interface A {
 	//int j; //ERROR as not initialized
 	static int k = 50;
 	
-	public static void main(String[] args) { //In java 8
+	public static void main(String[] args) { //In JAVA 8
 		System.out.println(54155);
 	}
 	
-	
-	void test1();
-
 	/*
 	 * A(){
 	 * 
 	 * }
 	 */ // ERROR we cannot keep a constructor inside an interface
+	
+	void test1();
 }

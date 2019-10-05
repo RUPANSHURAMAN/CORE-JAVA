@@ -13,6 +13,6 @@ public class C {
 		System.out.println(a[0].length); //COLUMN size = 30
 		System.out.println(a[2].length);//COLUMN size = 30
 		System.out.println(a[5].length);//COLUMN size = 30
-		//if 3D array you can't get z-axis length by lenght variable
+		//if 3D array you can't get z-axis length by length variable
 	}
 }

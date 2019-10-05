@@ -1,8 +1,8 @@
 package abstractclass3;
 
-public abstract class A4 {
+public abstract class A {
 	
-	A4(int i){
+	A(int i){
 		System.out.println(i);
 	}
 

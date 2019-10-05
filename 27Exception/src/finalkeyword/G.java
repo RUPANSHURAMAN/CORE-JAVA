@@ -1,4 +1,5 @@
 package finalkeyword;
+//DIFFERENT
 // If you make string args as final then it's size cannot be altered
 public class G {
 

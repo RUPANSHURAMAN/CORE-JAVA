@@ -3,7 +3,7 @@ package userdefinedexception2;
 //the reference of that object it will give it to catch. 
 //catch will now handle the exception and hence pgm will not halt abruptly
 
-//EXCEPTION steps : 1. user define exception class 2. throw keyowrd to throw exception
+//user defined EXCEPTION steps: 1. user define exception class 2. throw keyowrd to throw exception
 public class Bank {
 
 	public static void main(String[] args) {

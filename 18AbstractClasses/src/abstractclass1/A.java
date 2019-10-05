@@ -1,6 +1,6 @@
 package abstractclass1;
 
-abstract public class A2 {
+abstract public class A {
 	
 	public abstract void test();
 	

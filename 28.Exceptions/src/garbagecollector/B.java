@@ -1,4 +1,4 @@
-package OneGarbagecollector;
+package garbagecollector;
 // What is the difference b/w final, finally and finalized??
 
 public class B {

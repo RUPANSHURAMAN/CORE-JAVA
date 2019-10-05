@@ -1,4 +1,4 @@
-package abstractclasss;
+package abstractclass;
 
 public class C extends B implements A{
 

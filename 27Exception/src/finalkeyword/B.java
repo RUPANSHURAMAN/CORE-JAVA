@@ -1,6 +1,6 @@
 package finalkeyword;
 
-//* non static var if made final then it'sinitialization is mandatory or else we will get blank field ERROR
+//* non static var if made final then it's initialization is mandatory or else we will get blank field ERROR
 public class B {
 	// final int i; //ERROR: BLANK FINAL FIELD
 	// final static int k; //ERROR: BLANK FINAL FIELD again as it not matter if

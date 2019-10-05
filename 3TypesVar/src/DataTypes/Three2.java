@@ -16,6 +16,6 @@ public class Three2 {
 	}
 
 	public void test() {
-		System.out.println(Three2.j);
+		System.out.println(Three2.j); // 0
 	}
 }

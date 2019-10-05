@@ -8,7 +8,7 @@ public class G {
 		a[1] = 100;
 		a[2] = 1000;
 		
-		for(int i = 0;i<a.length;i++)
+		for(int i = 0;i<a.length;i++) // a.length for Array, String length() and File it's .length()
 			System.out.println(a[i]);
 	}
 }

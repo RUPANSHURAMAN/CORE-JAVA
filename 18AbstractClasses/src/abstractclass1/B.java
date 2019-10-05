@@ -1,6 +1,6 @@
 package abstractclass1;
 
-public class B2 extends A2{
+public class B extends A{
 
 	//abstract method or incomplete method must be completed to inherit
 	public void test() {
@@ -8,7 +8,7 @@ public class B2 extends A2{
 	}
 	
 	public static void main(String[] args) {
-		B2 b1 = new B2();
+		B b1 = new B();
 		b1.test();
 		b1.xyz();
 	}

@@ -1,5 +1,5 @@
 package NumberFormat;
-//* If you want to store hetrogeneous data, then create the array of type Object
+//* If you want to store hetrogeneous data, then create the array of type Object, no instantiating of individual object is needed
 // Object class is a supermost class in java and every class which we create by default is a subclass of Object class
 //If you create a var of the type Object it means that you can store any kind of data in it e.g.
 public class I {

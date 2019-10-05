@@ -1,4 +1,4 @@
-package p11;
+package p23;
 
 public interface A1 {
 	void test();
