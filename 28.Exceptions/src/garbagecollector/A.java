@@ -8,7 +8,7 @@ package garbagecollector;
 
 public class A {
 	@Override
-	protected void finalize() throws Throwable { // if not override then finalize is called by JVM and Throws THROWABLE
+	protected void finalize() throws Throwable { // if not override then finalize is called by JVM and Throws [THROWABLE]
 		System.out.println("From finalize");
 	}
 

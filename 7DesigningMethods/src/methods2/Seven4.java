@@ -14,7 +14,8 @@ public class Seven4 {
 	}
 
 	public int test() {
-		// whenever a method is returning value, the return type of method can never be void
+		// whenever a method is returning value, the return type of method cannot be void
 		return 30;
 	}
+	
 }

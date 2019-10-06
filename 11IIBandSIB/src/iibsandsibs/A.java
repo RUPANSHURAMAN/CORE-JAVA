@@ -7,6 +7,7 @@ public class A {
 	}
 
 	static {// START from SIB now not main(), object can be created in SIB but not in iib
+		new A();
 		System.out.println("SIB"); // 1
 	}
 

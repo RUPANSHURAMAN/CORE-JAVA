@@ -22,6 +22,7 @@ public class B {
 			fos.write(bytes); // write() transfers bytes to RAM and then to char into txt, NO need to close the file
 			System.out.println("Operation successful!");
 			
+			//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 			Integer i = 5;
 			byte data = i.byteValue();
 			fos.write(5); //writing int value doesn't work NOT WORKING!!

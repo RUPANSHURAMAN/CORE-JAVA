@@ -12,7 +12,6 @@ public class A3 {
 	public void test() {
 		int i = 10;
 		this.i = i;
-		System.out.println(this.i); // when var name is same this keyword can only access only non-static var and
-											// can't access local var
+		System.out.println(this.i); // when var name is same, this keyword can only access non-static var not local var
 	}
 }

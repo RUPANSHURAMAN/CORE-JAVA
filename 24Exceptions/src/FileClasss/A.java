@@ -10,10 +10,10 @@ package FileClasss;
  * FileOutputStream(File): not mandat to close file to write contents after write()
  * 
  * FileReader(File) : mandat to convert byte to char|| *can only read file can't create File || 
- * FileWriter(File) : mandat to close file to write contents after write()
+ * FileWriter(File) : mandat to close file to write contents after write()|| directly write strings
  * 
  * BufferedReader(FR) : readLine() faster
- * BufferedWriter(FW): mandat to close file to write contents after write()|| write() and nextLine()
+ * BufferedWriter(FW): mandat to close file to write contents after write()|| write() and nextLine()|| directly write strings
  * 
  *  fos and fis needs to be in try-catch as throws Exceptions
  */

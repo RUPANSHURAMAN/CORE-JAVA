@@ -1,6 +1,6 @@
 package constructors;
 
-// we can create multiple constructors in the same class provided they are differentiated based on number of args and/or type of args
+// we can create multiple constructors in the same class provided are differentiated based on number of args and/or type of args
 
 public class Eight5 {
 	Eight5() {
@@ -18,7 +18,7 @@ public class Eight5 {
 
 	}
 
-	Eight5(int i) {// i is a local var and need to be used only in custroctur
+	Eight5(int i) {// i is a local var and need to be used only in constructor
 		System.out.println(i);
 	}
 

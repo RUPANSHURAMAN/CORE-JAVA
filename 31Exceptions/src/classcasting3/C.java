@@ -10,6 +10,6 @@ public class C extends B{
 		B b1 = new C(); //inherited member are accessible or ref member but object class member can't be accessed
 		b1.test();
 		b1.xyz();
-		// b1.aaa(); ERROR as objcet class member not accessible
+		// b1.aaa(); ERROR as object class member not accessible
 	}
 }

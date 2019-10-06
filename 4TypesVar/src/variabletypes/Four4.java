@@ -1,7 +1,6 @@
 package variabletypes;
 
 public class Four4 {
-// FULLY CORRECT
 	int i; // DEfault 0
 	static int j; // Default 0
 

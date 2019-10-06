@@ -28,7 +28,7 @@ public class A1 {
 	public static void test1() {
 		// System.out.println(this); // ERROR//this keyword can't be used inside static
 										// context [meaning can't be used in static method its a limitation
-		// NOTE: ref can work in static and non-static context but [this] can't be in static method
+								// NOTE: ref can work in static and non-static context but [this] can't be in static method
 
 	}
 

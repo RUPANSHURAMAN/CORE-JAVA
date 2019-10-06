@@ -7,7 +7,7 @@ public class B extends A{
 	}
 	
 	public static void main(String[] args) {
-		A a1 = new A();
+		A a1 = new B();
 		a1.test();
 		//a1.xyz(); //ERROR same as upcasting not make access of child members
 	}

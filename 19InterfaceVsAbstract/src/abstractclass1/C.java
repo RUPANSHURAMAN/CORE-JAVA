@@ -18,7 +18,7 @@ public class C extends B{
 
 /* SUMMARY
  * interfaces can store only incomplete methods
- * by default every method is abstract in an interface
+ * by default every method is public, abstract in an interface
  * every var by default in an interface is public static and final
  * multiple inheritance is supported in interfaces
  * 
