@@ -3,7 +3,7 @@ package polymorphism;
 
 // OverRiding: inheritance mandatory for overriding (like in super keyword) after inheriting a method from parent class if 
 						// you want to modify that inherited method, then we use the concept of overriding 
-/* 1. overriding is applicable only on methods, N/A on vars
+/* 1. overriding is applicable only on non-static methods, N/A on vars
  * 2. while overriding if you are increasing the scope of access specifier then it will not give any error
  * 3. overriding static methods it's not possible as not inherited
  */

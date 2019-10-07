@@ -1,5 +1,5 @@
 package abstractclass;
-/* mvocsm
+/* imvocsmm
  * in abstract class its mandat to write abstract on method but not for interface
  * abstract can have complete and incomplete
  * object of abstract class can't be created, ref var can be created 

@@ -3,7 +3,7 @@ package sibiib;
 public class A {
 /*
  *  IIB (INSTANCE INITIALIZATION BLOCK)
- *  1. IIB are used to initialize all the non-static and static vars in one place
+ *  1. IIB are used to initialize all the non-static and static vars in one place w/o creating object to access vars
  *  2. IIB's are executed when objects are created 
  *  3. number of times create object same number of times IIB called, 
  *  4. can't be used to create object unlike SIB [NO CTE, HALTING StackOverflow]

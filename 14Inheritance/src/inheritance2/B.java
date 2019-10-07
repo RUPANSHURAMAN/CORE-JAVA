@@ -7,7 +7,7 @@ public class B extends A {
 
 	public static void main(String[] args) {
 		B j = new B();
-		j.test(); // inherited from A , so during inheritance we can access inherited and also same class members which is of B
+		j.test(); // inherited from A, so during inheritance we can access inherited and also same class members which is of B
 		j.test2(); 
 	}
 }

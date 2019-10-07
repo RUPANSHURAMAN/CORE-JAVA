@@ -1,6 +1,6 @@
 //COMPARE @ 16.A
 
-/* mvocsmm
+/* imvocsmm
  * Abstract class is 0 to 100% abstract, declared by abstract keyword
  * every method() [should have] abstract keyword to specify it is incomplete
  * var by default is not final, have to make it final
