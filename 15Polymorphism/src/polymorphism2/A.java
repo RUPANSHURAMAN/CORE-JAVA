@@ -7,7 +7,7 @@ package polymorphism2;
 
 public class A { //extends A1{ error as decreasing scope
 
-	// ERROR: if private
+	// ERROR: if private as ONLY VISIBLE TO CLASS A
 	protected void test1() {
 		System.out.println("A");
 	}

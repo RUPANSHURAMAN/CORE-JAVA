@@ -18,7 +18,7 @@ public class Seven1 {
 		 * 3. return keyword should be the last statement inside a method 
 		 * 4. if there are some stat's immediately after return keyword then those stat's will never execute and
 		 *    hence we will get an error of unreachable code 
-		 * 5. compiler places it end of method auto
+		 * 5. compiler auto places it at end of method but not if return type of method is other than void
 		 */
 		
 		return; // 4 

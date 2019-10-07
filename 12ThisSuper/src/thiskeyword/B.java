@@ -13,5 +13,6 @@ public class B {
 
 	public static void main(String[] args) {
 		new B(100);
+		//this(); // only in constructor()
 	}
 }

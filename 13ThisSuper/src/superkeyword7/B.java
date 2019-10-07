@@ -3,7 +3,7 @@ package superkeyword7;
 /*
  * constructor with arg 
  * *) if in a parent class there is only constructors with args then as a programmer we should explicitly write 
- * 			super keyword in child class constructor
+ * 			super keyword in child class constructor else ERROR
  * *) super keyword is NOT auto kept when there are only args constructor in parent class where as super 
  * 			keyword will be placed auto when in the parent class there is a constructor with no args    
  */

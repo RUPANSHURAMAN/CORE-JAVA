@@ -25,7 +25,7 @@ public class B {
 			//+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 			Integer i = 5;
 			byte data = i.byteValue();
-			fos.write(5); //writing int value doesn't work NOT WORKING!!
+			fos.write(5); //writing int value doesn't work NOT WORKING!! have to use toString to write int
 			
 			fos.write(bytes); // writing again string to confirm
 		} catch (Exception e) {

@@ -17,6 +17,10 @@ public class B implements A {
 	}
 
 	public static void main(String[] args) {
+		A a = new B(); // interface ref can be used to store implementing class mem addr but can't access members of class
+		a.test();
+		// a.xyz(); // ERROR as not in parent interface so not accessable
+		
 		B b = new B();
 		b.test();
 		b.xyz();

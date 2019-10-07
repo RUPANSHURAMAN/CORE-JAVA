@@ -14,7 +14,7 @@ public class Eight5 {
 	 * }
 	 */
 
-	Eight5(float i) { // constructor float i and int i vary only on type of arg
+	Eight5(float i) { // constructor float i vary only on type of arg
 
 	}
 

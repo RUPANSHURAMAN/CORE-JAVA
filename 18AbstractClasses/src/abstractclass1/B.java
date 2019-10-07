@@ -1,6 +1,7 @@
 package abstractclass1;
 
-public class B extends A{
+import abstractclass.A1;
+public class B extends A1{
 
 	//abstract method or incomplete method must be completed to inherit
 	public void test() {

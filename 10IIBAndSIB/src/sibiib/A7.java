@@ -8,6 +8,7 @@ public class A7 {
 		j = 30;
 		System.out.println(i);
 		System.out.println(j); // A7.i not needed as instance block, var can be directly accessed inside IIB
+		System.out.println(A7.j); // ALSO CORRECT
 	}
 
 	public static void main(String[] args) {

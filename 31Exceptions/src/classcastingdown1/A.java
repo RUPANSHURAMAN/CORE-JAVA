@@ -1,6 +1,6 @@
 package classcastingdown1;
 
 public class A {
-	int i = 10;
+	protected int i = 10;
 
 }

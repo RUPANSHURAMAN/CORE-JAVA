@@ -7,7 +7,7 @@ public interface A {
 	public int i = 10; // final and static appended as object of interface can't be created 
 					   //every var by default is public in an interface
 	
-	//int j; //ERROR as not initialized
+	//int j; //ERROR as not initialized as by default final
 	static int k = 50;
 	
 	public static void main(String[] args) { //In JAVA 8

@@ -3,9 +3,8 @@ package finalkeyword;
 /*
  * final keyword: 
  * 1. If you make a VARIABLE as final then we can never reinitialize is not possible
- * 2. * Non static and static var if made final then it's initialization is mandatory or else we will get blank field ERROR 
+ * 2. * Non static and static var if made final then it's initialization is mandatory or else we will get BLANK FIELD ERROR 
       * NO ERROR as local final var can be non-initialized and later initialized
-      * Static var can't be made final
  * 3. If you make an array as final then it's size can't be altered e.g. final int a[]= newint[4]; a = new int[3] //ERROR
  * 4. If you make a class as final then it's value can never be inherited
   	  final class (say M) can inherit members of non-final class (say L)
@@ -19,9 +18,9 @@ package finalkeyword;
 
 /*
  * STRING ARGS[]: 
- * 1. String args[] can;t be made static array //args = new String[3]; //ERROR
+ * 1. We can initialize size of args and give values to it by yourself REFER H class
+ * 2. String args[] can;t be made static array //args = new String[3]; //ERROR
  * 		//String[] a = {"10", "we"}; args = a; //but can assign static array
- * 2. We can initialize size of args and give values to it by yourself REFER H class
  */
 
 public class A {

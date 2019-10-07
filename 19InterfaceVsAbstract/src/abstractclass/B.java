@@ -1,7 +1,7 @@
 package abstractclass;
 
 public abstract class B implements A { // NO ERROR even if body of class left empty as abstract class can have
-										// incompletet method inherited and stored as well
+										// incomplete method inherited and stored as well
 
 	// abstract mandat as abstract class
 	public abstract void test1();

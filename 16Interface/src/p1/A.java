@@ -1,6 +1,6 @@
 package p1;
 
-/* mvocsm (method-var, object-constructor, static, main)
+/* mvocsmm (100%, method-var, object-constructor, static, main, multiple inheritance)
  * 1. Interface: abstract (incomplete) interfaces .java are 100% abstract or 100% incomplete 
  * 2. Interfaces are just like contract what a class gets into and the class should follow the contract i.e.
  * 				incomplete method inherited from a interface should be completed in a class

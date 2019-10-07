@@ -1,5 +1,6 @@
 package classcastingdown2;
 
+import classcastingdown1.A;
 /*
  * To perform successful downcasting we will firstly 
  * 1. create object of parent class 

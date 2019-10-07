@@ -1,7 +1,6 @@
 package ExceptionsHandle;
 //EXCEPTIONS is not error , error is like when semicolon missing 
 //* when a bad user input is given, the pgm will halt abruptly 
-//whenever a bad user input is given pgm will halt abdruptly
 // halting of pgm abruptly is called EXCEPTION e.g. 
 
 public class A {

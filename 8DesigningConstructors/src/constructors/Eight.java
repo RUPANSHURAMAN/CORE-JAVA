@@ -8,6 +8,11 @@ package constructors;
  * 5) return type of constructor is always void hence we can use only return keyword in it 
  */
 
+/*  Constructor vs. method: 
+ *  1. a method can be void or it can have return type but constructor always void by default
+ *  2. method is executed when we call it but a constructor executed on object creation
+ */
+
 // overloading: we create multiple methods with same name but then are differentiated on number and/or type of args, return type 
 // overrrdiing same return type, name and args (no and type)
 // polymorphism is run time and compile time, as overrrdiing happens when .class file runs whereas compile time happens [during] 

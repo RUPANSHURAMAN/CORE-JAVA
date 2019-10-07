@@ -3,8 +3,8 @@ package sibiib;
 /*
  *  SIB (STATIC INITIALIZATION BLOCK)
  *  1. SIB used to initialize all static vars in one place, can't initialize non-static in static context REFER A11 belongs object
- *  2. SIB's are executed before main() and w/o object creation
- *  3. can be used to create object unlike IIB [NO CTE, HALTING]
+ *  2. SIB's are executed before main() and w/o object creation||called at loader, so no access to instance vars only static vars
+ *  3. can be used to create object unlike IIB [NO CTE but HALTING]
  *  4. and that gives us better readability of the code
  */
 
