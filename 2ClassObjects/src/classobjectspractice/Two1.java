@@ -1,4 +1,4 @@
-package classobjects;
+package classobjectspractice;
 
 public class Two1 {
 	int i = 10; // copies = objects created // non-static member=object member=instance var

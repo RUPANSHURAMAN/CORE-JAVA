@@ -20,8 +20,7 @@ public class A {
 	public static void main(String[] args) {
 		// FileInputStream fis =
 		// new FileInputStream(""); //ERROR even though file exists as it's mandat to
-		// surround under try-catch block as its madat for every compile time exception
-		// like FileNotFound, IO, SQL exception
+		// surround under try-catch block as its madat for every compile time exception like FileNotFound, IO, SQL exception
 
 		try {
 			FileInputStream fis = new FileInputStream("/home/rupanshu/readFile.txt"); // used to read content of file

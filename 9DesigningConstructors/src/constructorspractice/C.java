@@ -1,4 +1,4 @@
-package designconstructors;
+package constructorspractice;
 // MEDIOCRE
 public class C {
 	C() {

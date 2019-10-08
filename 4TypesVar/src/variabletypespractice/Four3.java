@@ -1,4 +1,4 @@
-package variabletypes;
+package variabletypespractice;
 
 public class Four3 {
 	static int j;

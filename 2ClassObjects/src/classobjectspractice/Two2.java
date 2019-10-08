@@ -1,4 +1,4 @@
-package classobjects;
+package classobjectspractice;
 
 public class Two2 {// method creation
 	public static void main(String[] args) {

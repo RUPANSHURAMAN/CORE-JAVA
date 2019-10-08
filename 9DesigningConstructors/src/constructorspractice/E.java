@@ -1,4 +1,4 @@
-package designconstructors;
+package constructorspractice;
 // MEDIOCRE
 public class E {
 	int i = 10;

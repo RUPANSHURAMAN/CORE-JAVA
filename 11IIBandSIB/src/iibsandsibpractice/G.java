@@ -1,4 +1,4 @@
-package iibsandsibs;
+package iibsandsibpractice;
 
 public class G {
 

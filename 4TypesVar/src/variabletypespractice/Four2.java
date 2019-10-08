@@ -1,4 +1,4 @@
-package variabletypes;
+package variabletypespractice;
 //MEDIOCRE
 public class Four2 {
 	static int i;

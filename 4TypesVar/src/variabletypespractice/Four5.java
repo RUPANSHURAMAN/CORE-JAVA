@@ -1,4 +1,4 @@
-package variabletypes;
+package variabletypespractice;
 
 public class Four5 {
 	static Four5 f5;

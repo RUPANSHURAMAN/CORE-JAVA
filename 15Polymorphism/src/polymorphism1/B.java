@@ -2,6 +2,12 @@ package polymorphism1;
 //overriding static methods it's not possible as not inherited at first place
 public class B extends A {
 
+	/*
+	@Override
+	public static void test2() { //ERROR overriding static methods it's not possible as not inherited at first place
+		System.out.println("test2");
+	}*/
+	
 	@Override
 	public void test1() {
 		System.out.println("test1");

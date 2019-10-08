@@ -1,4 +1,4 @@
-package variabletypes;
+package variabletypespractice;
 
 public class Four4 {
 	int i; // DEfault 0

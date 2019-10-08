@@ -1,4 +1,4 @@
-package designconstructors;
+package constructorspractice;
 
 public class I {
 	//METHOD

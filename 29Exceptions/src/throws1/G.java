@@ -7,7 +7,7 @@ public class G {
 		
 		e1.test(); //No need to surround in try catch as main is throws Exception to callr of main() which is 
 						//JVM which not handles exception and halts the pgm
-		System.out.println("From B"); //NOt printed as Exception not handled
+		System.out.println("From B"); //NOT printed as Exception not handled
 		
 	}
 }

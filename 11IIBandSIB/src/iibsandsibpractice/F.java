@@ -1,4 +1,4 @@
-package iibsandsibs;
+package iibsandsibpractice;
 
 //with method
 public class F {
