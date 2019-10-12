@@ -1,4 +1,4 @@
-package DataTypes;
+package datatypecasting;
 
 //Data types and casting : converting a particular data type into required data type is caled typecasting
 //1)Auto typecasting: converting 1) smaller data type into bigger data type IMP w/o any loss of data

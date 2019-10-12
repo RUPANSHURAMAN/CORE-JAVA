@@ -1,4 +1,4 @@
-package DataTypes;
+package datatypecasting;
 
 public class Five6 {
 	public static void main(String[] args) {

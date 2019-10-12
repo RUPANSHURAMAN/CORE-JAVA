@@ -1,5 +1,5 @@
 package polymorphism;
-//overloading: we create multiple methods with same name but then are differentiated on number and/or type of args, return type, applicable on static and non-static methods
+//overloading: we create multiple methods with same name but then are differentiated on number and/or type of args, return type, applicable on static and non-static methods e.g. bolw
 //polymorphism is run time and compile time, as overrrdiing happens when .class file runs whereas compile time happens [during] .class file is being created
 public class A4 {
 	private static float test(float f) {
@@ -7,7 +7,7 @@ public class A4 {
 		return f;
 	}
 
-	public static void test(int i) {
+	public static void test(int i) { //BOTH STATIC METHODS OVERLOADED
 		System.out.println(i);
 	}
 

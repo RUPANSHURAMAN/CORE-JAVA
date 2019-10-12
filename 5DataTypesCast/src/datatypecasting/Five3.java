@@ -1,4 +1,4 @@
-package DataTypes;
+package datatypecasting;
 
 public class Five3 {
 

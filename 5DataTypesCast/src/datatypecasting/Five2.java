@@ -1,4 +1,4 @@
-package DataTypes;
+package datatypecasting;
 //2) Explicit downcasting: 
 public class Five2 {
 

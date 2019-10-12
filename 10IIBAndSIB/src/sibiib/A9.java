@@ -14,8 +14,12 @@ public class A9 {
 	{
 		System.out.println("From SIB"); // SIB runs before main() and it doesn't require any invoking stat and runs
 												// w/o creating object
+		test();
 	}
 
+	static void test() {
+		
+	}
 	public static void main(String[] args) {
 		//NO object created
 	}

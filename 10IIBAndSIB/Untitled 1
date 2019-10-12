@@ -1,18 +1,19 @@
 Seven1 return other than void then, not default place** (Seven1.java:14)
-Eight use different constructor** (Eight.java:6)
+Eight use different constructor, modifiers** (Eight.java:6)
 Nine
 10.A number of times create object same number of times IIB called, halting ** (A.java:9)
-10 A7 
+10.A7 SIB
 12.A thiskeyword** (A.java:5)
 13.superkeyword.B superkeyword** (B.java:4)
 14.iniheritance.B iniheritance resuse of non-static methods and vars** (B.java:2)
-15.polymorophism.A4 and polymorophism.A, non-static method only override, overloading both static and non-static methods**
-16.p1.A  interface definition
-18.abstractclass.A abstract definition of static var and method both**
+15.polymorophism.A4 and. A, non-static method only override NOT OVERRIDE STATIC METHOD ERROR, 
+								overloading both static and, non-static methods and not on vars**
+16.p1.A interface definition
+18.abstractclass.A abstract definition of static var and static method() can create if complete as abstract and static conflict **
 20 B try-catch
 23.FileHandling2.A should be in try-catch block**
 24.FileClass.A to REFER ALL FILE CLASSES BW directly writes string, -1 EOF**
-27.finalkeyword.A final for static,non-static var and final var and method(true), array**
+27.finalkeyword.A final for static,non-static var and final var and static method(true), array**
 28.GC.A garbage collection, Throwable**
 29.throws1.G NOT var or class**
 29.userdefinedexception2.Bank**

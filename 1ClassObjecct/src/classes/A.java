@@ -31,7 +31,7 @@ public class A {
 		int i = 1;// local variable cretated within a method 
 					// method
 		// local var can be accesed w/o reference 
-		// local var should be initialized before use
+		// local var should be initialized before use else CTE
 		// and should be used within the created
 		System.out.println("No output");
 		}
