@@ -4,7 +4,7 @@ public class A {
 /*
  *  this keyword points to the [current] object executing 
  *  every object created is a reference is also created by JVM which is accessed by this keyword
- *  [this] can be used to access static and non-static keyword, not local vars
+ *  [this] can be used to access static and non-static keyword, not local vars and can be used to access methods()
  *  this keyword can't be used inside static like super
  *  this() to call constructor, but not in same as it's CTE ERROR and ONLY in constructor and not a second stat
  *  
@@ -38,6 +38,6 @@ public class A {
 		this.test1();
 	}
 	
-	public static void test1() {
+	public void test1() {
 	}
 }
